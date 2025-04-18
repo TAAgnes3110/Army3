@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+MIDlet-Vendor: TeaMobi
+MIDlet-Version: 3.7.1
+MIDlet-1: Army371,/icon.png,coreLG.MyMidlet
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Name: Army 371
+MicroEdition-Profile: MIDP-2.0
+
